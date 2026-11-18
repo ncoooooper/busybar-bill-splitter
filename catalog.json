@@ -2,5 +2,5 @@
   "category": "utilities",
   "short_description": "Divide a bill by three weights down to the last cent with fair remainder allocation.",
   "description": "Divide a bill by three weights down to the last cent with fair remainder allocation. 999.99 split 2:1:1 yields 499.99, 250.00 and 250.00, exactly 999.99.",
-  "changelog": "First public version."
+  "changelog": "New screen transitions and high-contrast LED previews."
 }

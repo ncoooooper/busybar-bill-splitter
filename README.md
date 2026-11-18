@@ -4,6 +4,20 @@ Divide a bill by three weights down to the last cent with fair remainder allocat
 
 Read out three amounts that add back to the exact receipt total. Fractional cents are assigned once across the three shares, so nobody has to decide where a stray penny goes afterward.
 
+## Screen transitions
+
+Browse each share and change the receipt total to see the amounts update.
+
+![Bill Splitter front display. Browse each share and change the receipt total to see the amounts update.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Bill Splitter rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Read each person’s share
 
 1. Open **Person A** and turn through B and C. The rear shows each person’s weight and the total bill.
@@ -34,6 +48,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)
