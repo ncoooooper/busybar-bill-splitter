@@ -13,5 +13,27 @@
   "frames": 54,
   "distinct_frames": 20,
   "exit": "App io.ncoooooper.billsplitter exited: finished; heap peak 84.7 of 128 KiB",
-  "sha256": "66d39bfa45696e2e07423bbe0f038881a32b72a5ddbd548ff159470f77111dc7"
+  "sha256": "0422e41c610f122f530c26b49544d266979050b5658215bb18b10de8824ceaa8",
+  "display_test": {
+    "firmware": "1.3.1",
+    "input": "On-device controls",
+    "keys": [
+      [
+        "up"
+      ],
+      [
+        "down",
+        "ok",
+        "up",
+        "down",
+        "start"
+      ]
+    ],
+    "frames": 160,
+    "distinct_by_flow": [
+      7,
+      26
+    ],
+    "exit": "App io.btype.billsplitter exited: finished; heap peak 89.9 of 128 KiB"
+  }
 }
