@@ -12,6 +12,6 @@
   ],
   "frames": 54,
   "distinct_frames": 20,
-  "exit": "App io.ncoooooper.billsplitter exited: finished; heap peak 84.6 of 128 KiB",
-  "sha256": "db34e76e728c1300f23ff2636b158b245e8498080bc757d8ddea02a876d2c166"
+  "exit": "App io.ncoooooper.billsplitter exited: finished; heap peak 84.7 of 128 KiB",
+  "sha256": "66d39bfa45696e2e07423bbe0f038881a32b72a5ddbd548ff159470f77111dc7"
 }
