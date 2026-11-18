@@ -2,7 +2,7 @@
   "name": "busybar-bill-splitter",
   "private": true,
   "version": "0.1.0",
-  "description": "Bill Splitter",
+  "description": "Divide a bill by three weights down to the last cent with fair remainder allocation.",
   "author": "ncoooooper",
   "type": "module",
   "scripts": {
