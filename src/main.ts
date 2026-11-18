@@ -35,4 +35,4 @@ const fields=[
     "step": 1
   }
 ];
-worksheet({name:"Bill Splitter",fields,calculate,accent:"#39C8B4",motion:{"motif":"stations","color":"#39C8B4","shine":"#CEFCEB"}});
+worksheet({name:"Bill Splitter",fields,calculate,accent:"#39C8B4",motion:{enabled:false}});
